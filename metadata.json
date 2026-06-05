@@ -1,0 +1,6 @@
+{
+  "name": "UE Trajectory Predictor & Pre-Provisioning xApp",
+  "description": "An interactive O-RAN xApp simulation demonstrating real-time User Equipment (UE) trajectory prediction, signal strength (RSRP) forecasting, and intelligent resource pre-provisioning (bandwidth, slice reservation, and proactive handovers) backed by Gemini AI SLA path optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
